@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="confirm">Confirm:</string>
+    <string name="userentry">Please enter your username</string>
+    <string name="passentry">Please enter your password</string>
+    <string name="passconfirm">Please confirm your password</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
